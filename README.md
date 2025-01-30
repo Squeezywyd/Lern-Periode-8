@@ -14,5 +14,14 @@ Heute habe ich die ganze Zeit daran gearbeitet, die Datenbank mit dem SQL-Server
 
 ## Arbeitspakete 24.01.2025
 
-- [ ] Vertiefen wie ich meine Datenbank richtig aufsetze und verbinde
+- [x] Vertiefen wie ich meine Datenbank richtig aufsetze und verbinde
+- [ ] Mir ein Projekt überlegen, welches ich über die LP-8 und 9 machen kann.
+
+Heute habe ich nochmals vertieft wie ich eine Datenbank im M295 richtig aufsetzen kann und diese mit einer API und einer Webseite verbinden. Ich kann dies nun problemlos und fast ohne nachzuschauen selbst alles aufsetzen was sehr gut und zukünftig Zeitersparend ist.
+Ich bin noch nicht dazu gekommen mir ein Projekt zu überlegen, da ich die restliche Zeit noch damit verbracht habe an den Aufträgen für das Modul 114 zu arbeiten.
+
+
+## Arbeitspakete 31.01.2025
+
+- [ ] Arbeit an Abgaben für Modul 114 (HZ2)
 - [ ] Mir ein Projekt überlegen, welches ich über die LP-8 und 9 machen kann.
