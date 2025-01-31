@@ -23,5 +23,12 @@ Ich bin noch nicht dazu gekommen mir ein Projekt zu überlegen, da ich die restl
 
 ## Arbeitspakete 31.01.2025
 
-- [ ] Arbeit an Abgaben für Modul 114 (HZ2)
+- [x] Arbeit an Abgaben für Modul 114 (HZ2)
 - [ ] Mir ein Projekt überlegen, welches ich über die LP-8 und 9 machen kann.
+
+Heute habe ich viel Zeit mit dem Modul 114 verbracht und die Moodle Tests wie auch Abgaben bearbeitet. Anschliessend habe ich mich damit beschäftigt, eine Planung für das LB-Projekt aus dem Modul 295 zu machen und hab da schonmal etwas angefangen.
+
+## Arbeitspakete 21.02.2025
+
+- [ ] Arbeit an Modul 114 (HZ3)
+- [ ] Arbeit an LB 295 Projekt.
